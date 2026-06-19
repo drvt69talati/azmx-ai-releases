@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/azmxai-azmx-badge.png)](https://mseep.ai/app/azmxai-azmx)
+
 <div align="center">
 
 <!-- TODO(hero-asset): replace this with the actual logo when assets/ ships. -->
